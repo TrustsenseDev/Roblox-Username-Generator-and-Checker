@@ -53,10 +53,6 @@ The tool will then generate and check usernames, displaying progress in real-tim
 
 This tool is for educational purposes only. Please use responsibly and in accordance with Roblox's terms of service.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/roblox-username-checker/issues).
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -65,4 +61,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Your Name - [@Trustsense](https://github.com/TrustsenseDev)
 
-Project Link: [https://github.com/Trustsense/roblox-username-checker](https://github.com/yourusername/roblox-username-checker)
+Project Link: [https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker/tree/main]([https://github.com/yourusername/roblox-username-checker](https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker/tree/main))
