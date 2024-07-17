@@ -23,8 +23,8 @@ A fast and efficient tool to generate and check the availability of Roblox usern
 
 1. Clone this repository:
    ```
-   git clone https://github.com/TrustsenseDev/roblox-username-checker.git
-   cd roblox-username-checker
+   git clone https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker.git
+   cd Roblox-Username-Generator-and-Checker
    ```
 
 2. Install the required libraries:
@@ -37,7 +37,7 @@ A fast and efficient tool to generate and check the availability of Roblox usern
 Run the script using Python:
 
 ```
-python roblox_username_checker.py
+python tool.py
 ```
 
 Follow the interactive prompts to:
