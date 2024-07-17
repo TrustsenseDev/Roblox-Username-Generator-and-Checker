@@ -51,7 +51,7 @@ def check_roblox_username(username, proxy=None):
             data = response.json()
             return username if data.get('code') == 0 else None
         elif response.status_code == 429:  # Too Many Requests
-            time.sleep(0.1)  # Reduced wait time for faster checks
+            time.sleep(0.1)  # wait time
             return None
     except requests.RequestException:
         if proxy:
