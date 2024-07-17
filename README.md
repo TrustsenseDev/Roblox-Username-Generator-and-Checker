@@ -61,4 +61,4 @@ This tool is for educational purposes only. Please use responsibly and in accord
 
 Trustsense - [@TrustsenseDev](https://github.com/TrustsenseDev)
 
-Project Link: [https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker/tree/main]([https://github.com/yourusername/roblox-username-checker](https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker/tree/main)
+Project Link: [https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker/tree/main](https://github.com/yourusername/roblox-username-checker](https://github.com/TrustsenseDev/Roblox-Username-Generator-and-Checker/tree/main)
